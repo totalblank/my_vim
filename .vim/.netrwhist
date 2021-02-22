@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/home/srabon/c_c++_code/C++'
+let g:netrw_dirhist_4='/home/srabon/c_c++_code'
+let g:netrw_dirhist_3='/home/srabon/c_c++_code/C++'
+let g:netrw_dirhist_2='/home'
+let g:netrw_dirhist_1='/home/srabon'
+let g:netrw_dirhist_0='/home/srabon/.config/i3blocks/battery'
+let g:netrw_dirhist_9='/etc/sudoers.d'
+let g:netrw_dirhist_8='/home/srabon/python_code/stat'
+let g:netrw_dirhist_7='/home/srabon/python_code/pygame'
+let g:netrw_dirhist_6='/home/srabon/python_code/regex'

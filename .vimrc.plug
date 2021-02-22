@@ -1,0 +1,17 @@
+call plug#begin('~/.vim/plugged')
+
+  "Fugitive vim github wrapper
+  Plug 'tpope/vim-fugitive'
+
+  "gruvbox - theme
+  Plug 'morhetz/gruvbox'
+
+  " coc completer
+  Plug 'neoclide/coc.nvim', {'branch': 'release'}
+
+  "airline
+  Plug 'vim-airline/vim-airline'
+  "airline themes
+  Plug 'vim-airline/vim-airline-themes'
+
+call plug#end()
